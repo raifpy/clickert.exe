@@ -1,5 +1,5 @@
 # clickert.exe
-Clickert Açık Kaynak Projesinin .exe Varyasyanu .
+Clickert Açık Kaynak Projesinin .exe Varyasyonu .
 
 Güven problemi oluşmaması adına : 
 
